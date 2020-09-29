@@ -1,2 +1,2 @@
-# LYRICAL-MUSIC
+#LYRICAL//MUSIC
 Discord music bot
