@@ -1,0 +1,28 @@
+{
+  "name": "ultrabot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ultra - Developers",
+  "license": "MIT",
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "discord-akairo": "^8.0.0",
+    "ytdl-core-discord": "^1.2.0",
+    "discord-anti-spam": "^2.4.1",
+    "discord-giveaways": "^4.2.1",
+    "moment": "^2.27.0",
+    "discord-player": "^2.3.1",
+    "ffmpeg-static": "^4.2.6",
+    "@discordjs/opus": "^0.3.2",
+    "fs": "^0.0.2",
+    "ytdl-core": "^3.2.0",
+    "get-youtube-id": "^1.0.1"
+  }
+}
